@@ -5,4 +5,5 @@ variable "ALLOW_SG_CIDR" {}
 variable "PROJECT" {}
 variable "ENV" {}
 variable "INSTANCE_TYPE" {}
+variable "WORKSTATION_IP" {}
 
