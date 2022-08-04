@@ -6,4 +6,5 @@ variable "PROJECT" {}
 variable "ENV" {}
 variable "INSTANCE_TYPE" {}
 variable "WORKSTATION_IP" {}
+variable "PRIVATE_ZONE_ID" {}
 
